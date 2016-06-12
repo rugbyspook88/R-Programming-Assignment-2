@@ -36,7 +36,3 @@ A valid submission will look something like (this is just an example!)
 https://github.com/rdpeng/ProgrammingAssignment2
 
 This assignment will be graded via peer assessment. During the evaluation phase, you must evaluate and grade the submissions of at least 4 of your classmates. If you do not complete at least 4 evaluations, your own assignment grade will be reduced by 20%.
-
-=======
-# Progamming-Assigment-2
->>>>>>> 2b149f7ba0458439339bfa4a6337f3e240316920
